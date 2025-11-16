@@ -128,10 +128,10 @@ Let myName = "Bill";
 2.Write JavaScript code to add two numbers and log the result.
 
 Answer: 
-const number1 = "28";
-const number2 = "30";
+const number1 = 28;
+const number2 = 30;
 
-const sum = number 1 + number 2;
+const sum = number1 + number2;
 
 console.log("The sum is: " + sum);
 
